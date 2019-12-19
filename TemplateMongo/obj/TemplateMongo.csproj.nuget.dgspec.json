@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amita\\source\\repos\\TemplateMongo\\TemplateMongo\\TemplateMongo.csproj": {}
+    "C:\\GitApps\\TemplateMongo\\TemplateMongo\\TemplateMongo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amita\\source\\repos\\TemplateMongo\\TemplateMongo\\TemplateMongo.csproj": {
+    "C:\\GitApps\\TemplateMongo\\TemplateMongo\\TemplateMongo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amita\\source\\repos\\TemplateMongo\\TemplateMongo\\TemplateMongo.csproj",
+        "projectUniqueName": "C:\\GitApps\\TemplateMongo\\TemplateMongo\\TemplateMongo.csproj",
         "projectName": "TemplateMongo",
-        "projectPath": "C:\\Users\\amita\\source\\repos\\TemplateMongo\\TemplateMongo\\TemplateMongo.csproj",
+        "projectPath": "C:\\GitApps\\TemplateMongo\\TemplateMongo\\TemplateMongo.csproj",
         "packagesPath": "C:\\Users\\amita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amita\\source\\repos\\TemplateMongo\\TemplateMongo\\obj\\",
+        "outputPath": "C:\\GitApps\\TemplateMongo\\TemplateMongo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
